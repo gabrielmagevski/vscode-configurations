@@ -1,0 +1,90 @@
+{
+  "tabnine.experimentalAutoImports": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  },
+
+  "editor.formatOnSaveMode": "file",
+  "bracketPairColorizer.depreciation-notice": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.tabSize": 2,
+  "vsicons.dontShowNewVersionMessage": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.fontSize": 16.2,
+  "explorer.compactFolders": false,
+  "editor.inlineSuggest.enabled": true,
+  "editor.wordWrapColumn": 150,
+  "prettier.printWidth": 150,
+  "editor.wordWrap": "wordWrapColumn",
+  "diffEditor.wordWrap": "off",
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "scss": false
+  },
+  "window.newWindowDimensions": "offset",
+  "window.restoreWindows": "preserve",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "redhat.telemetry.enabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editorAssociations": {
+    "*.rpf": "default",
+    "*.scss": "default"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.guides.bracketPairs": true,
+  "git.confirmSync": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "symbols",
+  "symbols.hidesExplorerArrows": false,
+  "liveServer.settings.root": "",
+  "material-icon-theme.folders.theme": "specific",
+  "sakai-icons.hidesExplorerArrows": false,
+  "window.commandCenter": false,
+  "workbench.colorTheme": "Palenight Theme",
+  "liveServer.settings.port": 5001,
+  "explorer.confirmPasteNative": false,
+  "atlascode.jira.enabled": true,
+  "git.enableSmartCommit": true,
+  "mdb.mcp.server": "prompt",
+  "terminal.integrated.stickyScroll.enabled": false,
+  "[dockercompose]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced",
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "[github-actions-workflow]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "diffEditor.codeLens": true,
+  "editor.fontFamily": "JetBrains Mono",
+  "workbench.secondarySideBar.defaultVisibility": "hidden",
+  "database-client.autoSync": true,
+  "editor.codeActionsOnSave": {}
+}

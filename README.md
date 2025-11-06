@@ -2,6 +2,13 @@
 VS Code setup
 
 
+# 🦜 Utils 
+🐱‍👤 Font: **JetBrains Mono** <br>
+💥 Theme: **Palenight Theme** <br>
+🧊 Icons: **Symbols** <br>
+
+--- 
+
 # 🧠 My Visual Studio Code Setup
 
 A minimal and productive VS Code setup focused on clarity and clean aesthetics.  
